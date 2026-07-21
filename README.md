@@ -1,90 +1,95 @@
-# Hi, I'm Aarya Pabha! 👋 
+<div align="center">
 
-Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Engineer** currently pursuing a Master's degree in **Applied Data Science** at Indiana University, Bloomington. My experience spans from deep learning, image generation, and sentiment analysis to leadership in tech communities.
+  # Hi there, I'm Aarya Pabha 👋
+  ### **Research Data Scientist | AI & Machine Learning Engineer**
 
-🌟 **My Motto:** Never stop learning and building!
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarya-pabha)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarya-pabha)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ampabha@iu.edu)
+  [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Aarya003)
 
----
+  <br/>
 
-## 🚀 Projects
+  <!-- Dynamic Typing SVG Header -->
+  <a href="https://github.com/aarya-pabha">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=750&lines=Research+Data+Scientist+%40+Indiana+University;AI+%26+Machine+Learning+Engineer;Multi-Agent+Systems+%26+Federated+AI+Architect;Specializing+in+Production-Grade+RAG+%26+Computer+Vision" alt="Typing SVG" />
+  </a>
 
-### 🔥 [Wildfire Detection using Vision Transformers](https://github.com/aarya-pabha/wildfire-detection-transformers)
-- **Overview:** This project focuses on detecting wildfires using **Vision Transformers**. The model I developed achieved **97.80% accuracy**, outperforming the current standard by 2.14%.
-- **Technologies:** Python, PyTorch, Vision Transformers, OpenCV
-- **Highlights:**
-  - Preprocessed a dataset of 2,700 images, including image augmentation.
-  - Implemented cascading multi-class classification with 88.51% accuracy.
+</div>
 
-### 🛍️ [Online Retailers Web Mining and Aspect-Based Sentiment Analysis](https://github.com/aarya-pabha/retailer-web-sentiment-analysis)
-- **Overview:** This project extracts and analyzes product reviews from online retailers to gain actionable insights into customer sentiment.
-- **Technologies:** Python, BeautifulSoup, Pandas, NLP, Scikit-learn
-- **Highlights:**
-  - Developed advanced spam filtering techniques, reducing false positives by 20%.
-  - Integrated the web scraping model with analytics tools, boosting productivity by 40%.
+<br/>
 
 ---
 
-## 💼 Work Experience
+## 👨‍💻 About Me
 
-### 💻 Data Science Intern - [Wipro Limited](https://www.wipro.com/)
-**May 2023 - July 2023**
-- Fine-tuned deep learning models for image generation, resulting in a **30% reduction in training time** and improving overall efficiency.
-- Applied **transfer learning** techniques on **Stable Diffusion**, enhancing image generation accuracy by 20%.
-- Developed an automation layer for text models to intelligently prompt image models, improving user query responses.
+I am a **Research Data Scientist** at Indiana University Bloomington and an **M.S. in Data Science** graduate specializing in **production-grade, distributed AI systems**, **privacy-preserving federated learning**, and **autonomous multi-agent engines**. 
 
----
-
-## 📚 Education
-
-- **Indiana University Bloomington**
-  - *Master of Science in Data Science*
-  - Focus: Applied Data Science
-- **Vellore Institute of Technology**
-  - *Bachelor of Technology in Computer Science and Engineering*
-  - GPA: 3.5/4.0
+- 🔬 **Current Research Focus**: Scaling probabilistic ML pipelines across 684-feature matrices and 500+ parallel simulations under extreme low-variance constraints.
+- ⚙️ **Core Expertise**: Distributed AI Infrastructure (GCP/AWS), Hybrid RAG with Semantic Routing, Autonomous Agent Networks (BeeAI, LangGraph), Vision Transformers (ViT), and Healthcare MLOps (HIPAA/FHIR).
+- 🎓 **Education**: M.S. in Data Science (Indiana University Bloomington) | B.Tech in Computer Science & Engineering (VIT).
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack & Ecosystem
 
-- **Languages:** Python, Java, C++, SQL, HTML, CSS, JavaScript
-- **Data Science & ML:** TensorFlow, PyTorch, Scikit-learn, Pandas, Keras, Vision Transformers
-- **Tools & Frameworks:** Tableau, Excel, SSIS, Git, Docker
-- **Certifications:**
-  - [Machine Learning A-Z™: Python & R in Data Science (Udemy)](https://www.udemy.com/course/machinelearning/)
-  - [Deep Learning A-Z™: Hands-On Artificial Neural Networks (Udemy)](https://www.udemy.com/course/deeplearning/)
-  - [Data Analysis Using Python (IBM)](https://www.ibm.com/skills/)
-  - [The Joy of Computing using Python (NPTEL)](https://nptel.ac.in/)
-  
----
+```
+   🧠 Machine Learning & AI    :: PyTorch | Scikit-Learn | TensorFlow | Hugging Face | Vision Transformers | OpenCV | XAI
+   🤖 Agentic & LLM Frameworks :: BeeAI | LangGraph | CrewAI | LangChain | LlamaIndex | Prompt Engineering | Pydantic
+   🗄️ Databases & Search       :: PostgreSQL | MySQL | Redis | Pinecone (Vector DB) | Apache Spark | Firestore
+   ☁️ Cloud & Infrastructure   :: GCP (Cloud Functions/GCS) | AWS (SageMaker/Timestream/S3/RDS) | Docker | Git | MLflow
+   📊 Analytics & Web Deployment:: Python | R | SQL | PowerBI | Streamlit | Gradio | Hugging Face Spaces | Pandas | NumPy
+```
 
-## 🌱 What I’m Learning
-
-Currently expanding my knowledge in:
-- Advanced Computer Vision techniques.
-- Transformers and Generative AI.
-- Big Data tools like Hadoop and Spark.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,redis,gcp,aws,docker,git,pytorch,tensorflow,vscode&perline=6" alt="Tech Stack Icons" />
+</p>
 
 ---
 
-## 🏆 Achievements & Leadership
+## 🚀 Featured Flagship Projects
 
-### 🎯 Vice President - [Zero Bugs Club](https://vit.ac.in/)
-**Apr 2022 - May 2023**
-- Organized two major technical events with over 600 participants, achieving a **50% increase in attendance**.
-- Spearheaded a 36-hour hackathon, ensuring smooth execution and high participant engagement.
-
----
-
-## 📫 Let's Connect!
-
-- **LinkedIn:** [linkedin.com/in/aarya-pabha](https://www.linkedin.com/in/aarya-pabha)
-- **GitHub:** [github.com/aarya-pabha](https://github.com/aarya-pabha)
-- **Email:** [ampabha@iu.edu](mailto:ampabha@iu.edu)
-
-Feel free to reach out for collaborations, mentorship, or any exciting project ideas! 😄
+| Project | Key Innovation & Architecture | Stack & Links |
+| :--- | :--- | :--- |
+| 🏛️ **Wall St. AI Analyst** | **Hybrid RAG & Live Market Agent**: Built a Semantic Router (`OpenAIPydanticProgram`) partitioning queries between Pinecone (SEC 10-K RAG with `MarkdownElementNodeParser` table parsing) and `yfinance` live API. Evaluated via Ragas framework (**83.5% Faithfulness**, **91.8% Answer Relevancy**). | `LlamaIndex` `OpenAI` `Pinecone` `Ragas` `Streamlit`<br/>👉 [GitHub Repo](https://github.com/aarya-pabha/financial-ai-agent) \| 🌐 [Hugging Face Space](https://huggingface.co/spaces/Aarya003/Financial-Analyst-Agent) |
+| 🛡️ **FedMed-XAI** | **Serverless Federated Diagnostics**: Engineered GradsSharding architecture on GCP Cloud Functions + GCS (bypassing 50MB+ tensor limits), Zero-Trust Medplum FHIR-native audit logs, and automated PHI scrubbing ETL (PostgreSQL + Redis). | `GCP` `Python` `PostgreSQL` `Redis` `Medplum` `FHIR` `XAI`<br/>👉 [GitHub Repo](https://github.com/aarya-pabha/FedMed-XAI) |
+| 🤖 **Autonomous Trading Council** | **Multimodal Multi-Agent Network**: Architected Bull, Bear & CIO Agent Council via BeeAI & GPT-4o with cyclic reflection loops, OpenBB v4 & VLMs for chart analysis, and Pydantic schemas (**98% pass rate** against CIO-Judge checks). | `BeeAI` `GPT-4o` `VLMs` `OpenBB` `Pydantic`<br/>👉 [GitHub Repo](https://github.com/aarya-pabha/-AI-Stock-Analysis-Chatbot) |
+| 🌲 **Wildfire ViT Pipeline** | **Hierarchical Vision Transformer**: Built an early wildfire detection pipeline achieving **97.8% binary accuracy** across 23 model variations with cascading multi-class classification. | `ViT` `PyTorch` `OpenCV` `Python`<br/>👉 [GitHub Repo](https://github.com/aarya-pabha/Wildfire-Detection-using-Vision-Transformers) |
+| 🐒 **Ape Pose Detection** | **Computer Vision Pose Estimation**: Engineered deep learning pipeline for accurate primate pose estimation and keypoint joint tracking. | `PyTorch` `OpenCV` `Computer Vision`<br/>👉 [GitHub Repo](https://github.com/aarya-pabha/Ape-Pose-Detection) |
+| 🛍️ **Aspect Sentiment Analysis** | **Web Mining & NLP Engine**: Product review extraction pipeline featuring custom spam filtering (**20% false positive reduction**) and automated analytics integration (**40% productivity boost**). | `NLP` `Scikit-Learn` `Pandas` `BeautifulSoup`<br/>👉 [GitHub Repo](https://github.com/aarya-pabha/Aspect-Based-Sentiment-Analysis) |
 
 ---
 
-Thanks for stopping by! ✨
+## 💼 Professional Experience Snapshot
 
+- 🔬 **Research Data Scientist** | *Indiana University Bloomington* `Sep 2025 - Present`
+  - Scaled probabilistic machine learning pipelines processing 684-feature matrices across 500+ parallel simulations.
+  - Engineered Pandas evaluation scripts filtering 22,000+ false positives down to 467 actionable targets.
+- 🏢 **AI Architect Intern** | *Monage Corporation* `Jun 2025 - Aug 2025`
+  - Architected predictive healthcare platform targeting 1M active users (<500ms latency) via AWS SageMaker, Timestream, RDS PostgreSQL & S3.
+  - Designed HIPAA-compliant AI integration workflows for US/India MVP inference routing.
+- 💻 **Data Scientist Intern** | *Wipro Limited* `May 2023 - Jul 2023`
+  - Built AI troubleshooting prototype integrating GPT-3 with Tesseract OCR; fine-tuned Stable Diffusion v1.5 via DreamBooth on curated datasets.
+
+---
+
+## 📜 Certifications & Education
+
+- 🎓 **M.S. in Data Science** — Indiana University Bloomington
+- 🎓 **B.Tech in Computer Science & Engineering** — Vellore Institute of Technology
+- 🏆 **IBM Certified**: RAG and Agentic AI
+- 🏆 **DataCamp Certified**: SQL Associate
+
+---
+
+<div align="center">
+
+  ### 🤝 Let's Connect & Collaborate!
+
+  Feel free to reach out for research collaborations, AI/ML engineering projects, or technical inquiries.
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aarya-pabha)
+  [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail)](mailto:ampabha@iu.edu)
+  [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Demos-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Aarya003)
+
+</div>
